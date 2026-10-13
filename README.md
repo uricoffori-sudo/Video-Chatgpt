@@ -1,13 +1,15 @@
 # URICGEL video
 
-## Video 02 — Preview V1
+## Video 02 — Approved final
 
-[Download the new review preview (MP4)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/previews/URICGEL-video02-preview-v1-3x4.mp4)
+[Download the final Video 02 (MP4)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/finals/URICGEL-video02-final-3x4-1080x1440.mp4)
 
 - Duration: 52 seconds
-- Aspect ratio: 3:4 (540 × 720), 30 fps
-- Captions, motion graphics and sound effects
-- Review preview only; the final export for this video has not been rendered
+- Aspect ratio: 3:4 (1080 × 1440), 30 fps
+- Captions, motion graphics and sound effects from the approved preview
+- Final rendered from the original recording, without preview labels
+
+[Download the approved Video 02 preview (MP4, 540 × 720)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/previews/URICGEL-video02-preview-v1-3x4.mp4)
 
 ## Video 01 — Approved final
 
