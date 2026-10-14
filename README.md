@@ -1,14 +1,18 @@
 # URICGEL video
 
-## Video 04 — Review preview V1
+## Video 04 — Premium review preview V2
 
-[Download the Video 04 review preview (MP4)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/previews/URICGEL-video04-preview-v1-9x16.mp4)
+[Download the Video 04 premium preview V2 (MP4)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/previews/URICGEL-video04-preview-v2-premium-9x16.mp4)
 
 - Duration: 22.27 seconds, edited from a 26.28-second source
-- Aspect ratio: 9:16 (540 × 960), 30 fps
-- Original narration and product close-up, with tightened pauses
-- Malay captions, animated joint/muscle illustrations, three usage steps and original sound effects
+- Aspect ratio: 9:16 (720 × 1280), 30 fps
+- Forest green and ivory, Manrope typography and captions over transparent gradients
+- Animated close-ups of the actual carton, cream-application illustration and original massage demonstration
+- Soft dissolves, matching product transitions, original ambient music and restrained sound effects
+- Original trimmed narration retained; circular label enlargement removed
 - Review preview only; this video's final export has not been rendered
+
+[Previous Video 04 preview V1 (MP4, 540 × 960)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/previews/URICGEL-video04-preview-v1-9x16.mp4)
 
 ## Video 03 — Approved final
 
