@@ -1,5 +1,15 @@
 # URICGEL video
 
+## Video 04 — Review preview V1
+
+[Download the Video 04 review preview (MP4)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/previews/URICGEL-video04-preview-v1-9x16.mp4)
+
+- Duration: 22.27 seconds, edited from a 26.28-second source
+- Aspect ratio: 9:16 (540 × 960), 30 fps
+- Original narration and product close-up, with tightened pauses
+- Malay captions, animated joint/muscle illustrations, three usage steps and original sound effects
+- Review preview only; this video's final export has not been rendered
+
 ## Video 03 — Approved final
 
 [Download the final Video 03 (MP4)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/finals/URICGEL-video03-final-9x16-1080x1920.mp4)
