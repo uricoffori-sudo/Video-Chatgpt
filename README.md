@@ -1,4 +1,20 @@
-# URICGEL video
+# Product and customer video edits
+
+## Video 05 — URICOFF customer testimonial final
+
+[Download the final URICOFF testimonial (MP4)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/finals/URICOFF-testimonial-premium-9x16-1080x1920.mp4)
+
+[Download transcript, subtitles, timeline, cue sheet, CTA, cover and audio stems (ZIP)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/deliverables/URICOFF-testimonial-deliverables.zip)
+
+[Download cover (JPEG)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/covers/URICOFF-cover-1080x1920.jpg) · [Download Malay subtitles (SRT)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/subtitles/URICOFF-subtitles.srt)
+
+- Duration: 37.07 seconds; 9:16, 1080 × 1920, 30 fps
+- Authentic hook: “Satu bonus bagi saya”; original customer voice, emotions and experience retained
+- Montserrat captions, cream/charcoal/botanical green/champagne accents, controlled push-ins and soft dissolves
+- Customer's continued dietary control retained; no invented testimonial, rating or verified badge
+- Actual product packaging pixels from the supplied recording; no recreated product label
+- Original warm ambient score and synthesized SFX, without third-party sampled recordings
+- Transcript covers the entire 11:15.233 source; unresolved phrases are marked and are not presented as 100% verified verbatim
 
 ## Video 04 — Approved premium final V2
 
