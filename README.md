@@ -1,20 +1,23 @@
 # Product and customer video edits
 
-## Video 05 — URICOFF customer testimonial final
+## Video 05 — Cinematic Storytelling V2
 
-[Download the final URICOFF testimonial (MP4)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/finals/URICOFF-testimonial-premium-9x16-1080x1920.mp4)
+[Download cinematic testimonial V2 (MP4)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/finals/URICOFF-testimonial-cinematic-v2-9x16-1080x1920.mp4)
 
-[Download transcript, subtitles, timeline, cue sheet, CTA, cover and audio stems (ZIP)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/deliverables/URICOFF-testimonial-deliverables.zip)
+[Download transcript, SRT, timeline, cue sheet, CTA, cover and original audio stems (ZIP)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/deliverables/URICOFF-testimonial-cinematic-v2-deliverables.zip)
 
-[Download cover (JPEG)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/covers/URICOFF-cover-1080x1920.jpg) · [Download Malay subtitles (SRT)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/subtitles/URICOFF-subtitles.srt)
+[Download cover (JPEG)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/covers/URICOFF-cinematic-v2-cover-1080x1920.jpg) · [Download Malay subtitles (SRT)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/subtitles/URICOFF-cinematic-v2-subtitles.srt)
 
-- Duration: 37.07 seconds; 9:16, 1080 × 1920, 30 fps
-- Authentic hook: “Satu bonus bagi saya”; original customer voice, emotions and experience retained
-- Montserrat captions, cream/charcoal/botanical green/champagne accents, controlled push-ins and soft dissolves
-- Customer's continued dietary control retained; no invented testimonial, rating or verified badge
-- Actual product packaging pixels from the supplied recording; no recreated product label
-- Original warm ambient score and synthesized SFX, without third-party sampled recordings
-- Transcript covers the entire 11:15.233 source; unresolved phrases are marked and are not presented as 100% verified verbatim
+- Duration: 37.87 seconds; 9:16, 1080 × 1920, 30 fps
+- CTA: **Tekan beg Kuning**; charcoal button, restrained yellow bag icon and downward arrow
+- Warm natural cinematic grade, authentic customer face and voice, emotional pacing and restrained push-ins
+- Actual moving product B-roll from the original footage; carton, label and logo are preserved
+- Authentic hook “Satu bonus bagi saya”; dietary-control context and subjective “bagi saya” meaning retained
+- Phrase-synchronized Malay captions, cream/charcoal/botanical green/champagne accents and smooth dissolves
+- Original ambient score and restrained synthesized sound design; no third-party sampled recording
+- Full source transcript covers 11:15.233; unclear phrases are marked, and 100% verified verbatim accuracy is not claimed
+
+[Previous premium version (MP4)](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/finals/URICOFF-testimonial-premium-9x16-1080x1920.mp4) · [Previous document bundle](https://github.com/uricoffori-sudo/Video-Chatgpt/raw/refs/heads/main/deliverables/URICOFF-testimonial-deliverables.zip)
 
 ## Video 04 — Approved premium final V2
 
